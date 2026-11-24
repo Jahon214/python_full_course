@@ -16,9 +16,31 @@
 # print('''"Nexia", "Tico", 'Damas' ko'rganlar qilar havas''')
 
 
-print(5**4)
+# print(5**4)
 
 # print(22%4)
 
 # print(125**2) # Kvadrat yuzi
 # print(2*(125+125)) # Perimetri 
+
+
+# text = "Hello World!"
+# print(text)
+
+
+
+# xabar = 'Men Narzullayev Jahongir FullStack dasturchisiman'
+# print(xabar)
+
+# xabar = 'Mr John'
+# print(xabar)
+
+
+# class = 'Hello World'
+# print(class)
+
+
+radius = 5
+pi = 3.14159
+aylana_yuzi = pi * radius**2
+print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)
