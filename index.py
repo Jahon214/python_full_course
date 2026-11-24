@@ -40,7 +40,39 @@
 # print(class)
 
 
-radius = 5
-pi = 3.14159
-aylana_yuzi = pi * radius**2
-print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)
+# radius = 5
+# pi = 3.14159
+# aylana_yuzi = pi * radius**2
+# print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)
+
+
+
+# ism = 'John'
+# familiya = 'Narz'
+# ism_sharif = f"Mening ismim {ism}. {ism} {familiya}"
+# print(ism_sharif)
+
+
+# print('Hello \tWorld!')
+# print('Hello \nWorld!')
+
+
+# ism = 'John'
+# familiya = 'Narzullayev'
+# ism_sharif = f"{ism} {familiya}" 
+# # print(ism_sharif.upper())
+# # print(ism_sharif.lower())
+# # print(ism_sharif.title())
+# print(ism_sharif.capitalize())
+
+
+# meva = "        olma         "
+# # print(meva)
+# # print("Men " + meva.lstrip() + " yaxshi ko'raman")
+# # print("Men " + meva.rstrip() + " yaxshi ko'raman")
+# # print("Men " + meva.strip() + " yaxshi ko'raman")
+# print("Men " + meva + " yaxshi ko'raman")
+
+
+# ism = input("Ismingizni kiriting: \n>>>")
+# print("Assalomu aleykum, " + ism.title())
