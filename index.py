@@ -76,3 +76,14 @@
 
 # ism = input("Ismingizni kiriting: \n>>>")
 # print("Assalomu aleykum, " + ism.title())
+
+
+kocha = input("Ko'changizni kiriting: \n>>>")
+mahalla = input("Mahallangizni kiriting: \n>>>")
+tuman = input("Tumaningizni kiriting: \n>>>")
+viloyat = input("Viloyatingizni kiriting: \n>>>")
+
+# print(kocha + " ko'chasi, \n" + mahalla + " mahallasi, \n" + tuman + " tumani, \n" + viloyat + " viloyati")
+
+manzil = f"{kocha.lower()} ko'chasi,\n  {mahalla.title()}  mahallasi,\n {tuman.capitalize()} tumani,\n {viloyat.upper()} viloyati\n"
+print(manzil)
